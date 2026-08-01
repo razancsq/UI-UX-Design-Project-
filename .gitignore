@@ -1,0 +1,34 @@
+# Build output
+build/
+dist/
+bin/
+out/
+target/
+
+# Compiled files
+*.class
+*.o
+*.obj
+*.pyc
+__pycache__/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
+nbproject/private/
+.DS_Store
+Thumbs.db
+
+# Environment and credentials
+.env
+.env.*
+*.local
+config.local.*
+
+# Logs and temp files
+*.log
+*.tmp
